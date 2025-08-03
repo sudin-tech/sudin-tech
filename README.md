@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Sudin Rai
 **A Full Stack Developer || From Nepal**
 
-Email Me 👉 ✉️ **sudinrai946@.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **sudinrai946@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Self Projects
 - 🌱 **I’m currently learning:** React Js and PostgresSQL
