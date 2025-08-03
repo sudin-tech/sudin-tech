@@ -1,4 +1,15 @@
+# 💫 Hi 👋, I'm Sudin Rai
+**A Full Stack Developer || From Nepal**
 
+Email Me 👉 ✉️ **sudinrai946@.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Self Projects
+- 🌱 **I’m currently learning:** React Js and PostgresSQL
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** sudinrai946@gmail.com
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** Lemme code you
+- 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rai_sudin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sudin-rai-6091182aa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudinrai946@gmail.com) 
 
