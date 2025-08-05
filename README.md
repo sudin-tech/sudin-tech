@@ -17,7 +17,7 @@ Email Me 👉 ✉️ **sudinrai946@gmail.com** For Collaboration/Project or Anyt
 # 💻 Tech Stack:
   
 # 💻 Tech Stack:
-<p align="center">
+<div align="center">
   
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -45,7 +45,7 @@ Email Me 👉 ✉️ **sudinrai946@gmail.com** For Collaboration/Project or Anyt
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
 
-</p>
+</div>
 
  
 # 📊 GitHub Stats:
