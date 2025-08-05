@@ -15,6 +15,7 @@ Email Me 👉 ✉️ **sudinrai946@gmail.com** For Collaboration/Project or Anyt
 
 
 # 💻 Tech Stack:
+<p align="center">
   
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -41,6 +42,9 @@ Email Me 👉 ✉️ **sudinrai946@gmail.com** For Collaboration/Project or Anyt
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
+
+</p>
+ 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sudin-tech&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sudin-tech&theme=dark&hide_border=false)<br/>
