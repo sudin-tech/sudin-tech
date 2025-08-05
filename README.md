@@ -50,18 +50,21 @@ Email Me 👉 ✉️ **sudinrai946@gmail.com** For Collaboration/Project or Anyt
  
 # 📊 GitHub Stats:
 
-
-
  <p align="center">
-  
   <img src="https://github-readme-streak-stats-azure-six.vercel.app?user=sudin-tech&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=00F5D4&fire=FF006E&sideNums=FFBE0B&sideLabels=ffffff&currStreakNum=ffffff&currStreakLabel=00F5D4" />
-
 </p>
 
- ![](https://github-readme-activity-graph.vercel.app/graph?username=sudin-tech&bg_color=0d1117&color=00F5D4&line=FF006E&point=8338EC&area=true&hide_border=true&custom_title=Quantum%20Activity%20Matrix)
+ 
+   ![](https://github-readme-activity-graph.vercel.app/graph?username=sudin-tech&bg_color=0d1117&color=00F5D4&line=FF006E&point=8338EC&area=true&hide_border=true&custom_title=Quantum%20Activity%20Matrix)
+   
 
+
+   <!--![](https://nirzak-streak-stats.vercel.app/?user=sudin-tech&theme=dark&hide_border=false)
+
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sudin-tech&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
 
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=sudin-tech&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Dev Quote
