@@ -47,11 +47,13 @@ Email Me 👉 ✉️ **sudinrai946@gmail.com** For Collaboration/Project or Anyt
 
  
 # 📊 GitHub Stats:
+<div center="center"
 ![](https://github-readme-stats.vercel.app/api?username=sudin-tech&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sudin-tech&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sudin-tech&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=sudin-tech&bg_color=0d1117&color=00F5D4&line=FF006E&point=8338EC&area=true&hide_border=true&custom_title=Quantum%20Activity%20Matrix)
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sudin-tech&theme=radical&no-frame=false&no-bg=true&margin-w=4)
