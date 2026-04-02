@@ -60,6 +60,7 @@
 ![REST APIs](https://img.shields.io/badge/RESTful_APIs-009688?style=flat&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socketdotio&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat&logo=auth0&logoColor=white)
 ![Rate Limiting](https://img.shields.io/badge/Rate_Limiting-FF5722?style=flat&logoColor=white)
 ![Load Balancing](https://img.shields.io/badge/Load_Balancing-0078D4?style=flat&logoColor=white)
 ![DB Indexing](https://img.shields.io/badge/DB_Indexing_%26_Complex_Queries-47A248?style=flat&logoColor=white)
