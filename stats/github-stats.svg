@@ -139,7 +139,7 @@
   <!-- Footer -->
   <text x="40" y="205"
         font-family="'JetBrains Mono', 'Fira Code', monospace"
-        font-size="9" fill="#484F58">↻ Updated Jul 02, 2026 · 04:42 UTC</text>
+        font-size="9" fill="#484F58">↻ Updated Jul 03, 2026 · 04:27 UTC</text>
 
   <text x="820" y="205" text-anchor="end"
         font-family="'JetBrains Mono', 'Fira Code', monospace"
